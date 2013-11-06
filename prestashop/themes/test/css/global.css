@@ -53,7 +53,7 @@ a {cursor:pointer}
 body{
 	font:normal 11px/14px Arial, Verdana, sans-serif;
 	color:#222;
-	background:#fff
+	background-color:#7A0C0C;
 }
 body.content_only {
 	background: #FFF;
@@ -207,7 +207,7 @@ input.exclusive_mini:hover, input.exclusive_small:hover, input.exclusive:hover, 
 a.button_mini:hover, a.button_small:hover, a.button:hover, a.button_large:hover,
 a.exclusive_mini:hover, a.exclusive_small:hover, a.exclusive:hover, a.exclusive_large:hover {
 	text-decoration:none;
-	background-position: left -50px
+	background-Fposition: left -50px
 }
 
 /* exclusive hover button */
@@ -295,7 +295,7 @@ table.table_block  td {
 		color:#fff;
 		text-shadow:0 1px 0 #000;
 		text-transform:uppercase;
-		background:#383838;
+		background:#F5E3C3;
 		font-weight: bold;
 	}
 		.block .title_block a, .block h4 a {color:#fff}
