@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:413579006526146db7c23b7-74394051%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1509784140527d13ebd13009-82689457%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,13 +9,20 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '413579006526146db7c23b7-74394051',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_52792466814904_81499248',
+  'nocache_hash' => '1509784140527d13ebd13009-82689457',
+  'variables' => 
+  array (
+    'infos' => 0,
+    'nbblocks' => 0,
+    'module_dir' => 0,
+    'info' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_527d13ebd77517_78670825',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_52792466814904_81499248')) {function content_52792466814904_81499248($_smarty_tpl) {?><!-- MODULE Block reinsurance -->
+<?php if ($_valid && !is_callable('content_527d13ebd77517_78670825')) {function content_527d13ebd77517_78670825($_smarty_tpl) {?><!-- MODULE Block reinsurance -->
 <div id="reinsurance_block" class="clearfix">
 	<ul class="width5">	
 					<li><img src="/charcuterie/prestashop/modules/blockreinsurance/img/reinsurance-1-1.jpg" alt="Satisfait ou remboursé" /> <span>Satisfait ou remboursé</span></li>

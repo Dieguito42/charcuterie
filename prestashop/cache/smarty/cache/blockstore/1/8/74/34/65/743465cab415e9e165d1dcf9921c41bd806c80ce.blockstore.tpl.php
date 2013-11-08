@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:1185503315526841330a9cf7-37480085%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:640749308527d13ebb96492-92935349%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,13 +9,19 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1185503315526841330a9cf7-37480085',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_52792465caa0d7_20106398',
+  'nocache_hash' => '640749308527d13ebb96492-92935349',
+  'variables' => 
+  array (
+    'link' => 0,
+    'module_dir' => 0,
+    'store_img' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_527d13ebc10657_37448737',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_52792465caa0d7_20106398')) {function content_52792465caa0d7_20106398($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_527d13ebc10657_37448737')) {function content_527d13ebc10657_37448737($_smarty_tpl) {?>
 <!-- Block stores module -->
 <div id="stores_block_left" class="block">
 	<p class="title_block"><a href="http://localhost:8888/charcuterie/prestashop/index.php?controller=stores" title="Nos magasins">Nos magasins</a></p>

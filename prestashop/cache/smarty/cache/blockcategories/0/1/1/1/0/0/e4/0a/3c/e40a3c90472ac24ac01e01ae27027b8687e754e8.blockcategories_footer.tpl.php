@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:204276667652684134039a46-87660820%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:430234463527d13ebd9d344-67711596%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -15,13 +15,21 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '204276667652684134039a46-87660820',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_52792466940b64_66382299',
+  'nocache_hash' => '430234463527d13ebd9d344-67711596',
+  'variables' => 
+  array (
+    'widthColumn' => 0,
+    'isDhtml' => 0,
+    'blockCategTree' => 0,
+    'child' => 0,
+    'numberColumn' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_527d13ebe46236_73430966',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_52792466940b64_66382299')) {function content_52792466940b64_66382299($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_527d13ebe46236_73430966')) {function content_527d13ebe46236_73430966($_smarty_tpl) {?>
 <!-- Block categories module -->
 <div class="blockcategories_footer">
 	<p class="title_block">Catégories</p>
@@ -42,8 +50,14 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 					
 													
-<li class="last">
+<li >
 	<a href="http://localhost:8888/charcuterie/prestashop/index.php?id_category=5&amp;controller=category" 		title="Le tout dernier processeur Intel, un disque dur plus spacieux, de la m&eacute;moire &agrave; profusion et d&#039;autres nouveaut&eacute;s. Le tout, dans &agrave; peine 2,59 cm qui vous lib&egrave;rent de toute entrave. Les nouveaux portables Mac r&eacute;unissent les performances, la puissance et la connectivit&eacute; d&#039;un ordinateur de bureau. Sans la partie bureau.">Portables</a>
+	</li>
+
+					
+													
+<li class="last">
+	<a href="http://localhost:8888/charcuterie/prestashop/index.php?id_category=6&amp;controller=category" 		title="test">test</a>
 	</li>
 
 					

@@ -4,9 +4,10 @@
     <list default="true" id="6aea9277-8a83-477e-b0b2-85943c00ba9c" name="Default" comment="" />
     <ignored path="charcuterie.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/global.css" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383672139312" ignored="false" />
+    <file path="/global.css" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383920049521" ignored="false" />
     <file path="/a.dummy" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383672149486" ignored="false" />
-    <file path="/superfish-modified.css" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383672198545" ignored="false" />
+    <file path="/superfish-modified.css" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383918387707" ignored="false" />
+    <file path="/blockcategories.tpl" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383918331944" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,24 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="order.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/order.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="3" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sitemap.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/sitemap.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="404.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prestashop/404.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,7 +55,43 @@
       <file leaf-file-name="global.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/prestashop/themes/test/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="297" column="26" selection-start="11336" selection-end="11336" vertical-scroll-proportion="-9.88746">
+            <state line="555" column="4" selection-start="17550" selection-end="17550" vertical-scroll-proportion="0.62057877">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop/themes/test/header.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="49.458332">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="category.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop/themes/test/category.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="56.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop/themes/test/index.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.4166665">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blockcategories.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop/themes/test/modules/blockcategories/blockcategories.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="32" selection-start="1002" selection-end="1002" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
@@ -81,7 +100,7 @@
       <file leaf-file-name="superfish-modified.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prestashop/modules/blocktopmenu/css/superfish-modified.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="23" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
+            <state line="110" column="5" selection-start="2136" selection-end="2137" vertical-scroll-proportion="-14.346154">
               <folding />
             </state>
           </provider>
@@ -106,6 +125,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/prestashop/themes/test/modules/blockcategories/blockcategories.tpl" />
         <option value="$PROJECT_DIR$/prestashop/modules/blocktopmenu/css/superfish-modified.css" />
         <option value="$PROJECT_DIR$/prestashop/themes/test/css/global.css" />
       </list>
@@ -239,7 +259,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -265,37 +285,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="modules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="charcuterie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="charcuterie" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="prestashop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="blockcategories" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -343,7 +337,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1260" height="718" extended-state="1" />
+    <frame x="10" y="22" width="1260" height="718" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -426,20 +420,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prestashop/order.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="3" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/sitemap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prestashop/themes/test/404.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -506,16 +486,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/test/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="49.458332">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/test/category.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="56.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/test/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.4166665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/test/modules/blockcategories/blockcategories.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="32" selection-start="1002" selection-end="1002" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/prestashop/modules/blocktopmenu/css/superfish-modified.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="23" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
+        <state line="110" column="5" selection-start="2136" selection-end="2137" vertical-scroll-proportion="-14.346154">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prestashop/themes/test/css/global.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="297" column="26" selection-start="11336" selection-end="11336" vertical-scroll-proportion="-9.88746">
+        <state line="555" column="4" selection-start="17550" selection-end="17550" vertical-scroll-proportion="0.62057877">
           <folding />
         </state>
       </provider>

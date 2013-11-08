@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.14, created on 2013-10-18 16:37:15
+<?php /* Smarty version Smarty-3.1.14, created on 2013-11-08 17:39:45
          compiled from "/Applications/MAMP/htdocs/charcuterie/prestashop/admin2559/themes/default/template/controllers/performance/helpers/form/form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:7740080125261479b428694-00858298%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1543677882527d13d119c6d6-56566813%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -29,7 +29,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '7740080125261479b428694-00858298',
+  'nocache_hash' => '1543677882527d13d119c6d6-56566813',
   'function' => 
   array (
   ),
@@ -80,9 +80,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_5261479ccc2260_41258244',
+  'unifunc' => 'content_527d13d2997950_67074286',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5261479ccc2260_41258244')) {function content_5261479ccc2260_41258244($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include '/Applications/MAMP/htdocs/charcuterie/prestashop/tools/smarty/plugins/modifier.escape.php';
+<?php if ($_valid && !is_callable('content_527d13d2997950_67074286')) {function content_527d13d2997950_67074286($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_escape')) include '/Applications/MAMP/htdocs/charcuterie/prestashop/tools/smarty/plugins/modifier.escape.php';
 ?>
 
 <?php if ($_smarty_tpl->tpl_vars['show_toolbar']->value){?>
@@ -575,8 +575,8 @@ $_smarty_tpl->tpl_vars['v']->_loop = true;
 									<?php $_smarty_tpl->tpl_vars['groups'] = new Smarty_variable($_smarty_tpl->tpl_vars['input']->value['values'], null, 0);?>
 									<?php /*  Call merged included template "helpers/form/form_group.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_group.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '7740080125261479b428694-00858298');
-content_5261479c3dfc11_51325884($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_group.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array(), 0, '1543677882527d13d119c6d6-56566813');
+content_527d13d2132ae6_32147346($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "helpers/form/form_group.tpl" */?>
 								<?php }elseif($_smarty_tpl->tpl_vars['input']->value['type']=='shop'){?>
 									<?php echo $_smarty_tpl->tpl_vars['input']->value['html'];?>
@@ -584,8 +584,8 @@ $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "helpers/for
 								<?php }elseif($_smarty_tpl->tpl_vars['input']->value['type']=='categories'){?>
 									<?php /*  Call merged included template "helpers/form/form_category.tpl" */
 $_tpl_stack[] = $_smarty_tpl;
- $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_category.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array('categories'=>$_smarty_tpl->tpl_vars['input']->value['values']), 0, '7740080125261479b428694-00858298');
-content_5261479c4beef3_55868032($_smarty_tpl);
+ $_smarty_tpl = $_smarty_tpl->setupInlineSubTemplate('helpers/form/form_category.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, null, null, array('categories'=>$_smarty_tpl->tpl_vars['input']->value['values']), 0, '1543677882527d13d119c6d6-56566813');
+content_527d13d21f5530_53463906($_smarty_tpl);
 $_smarty_tpl = array_pop($_tpl_stack); /*  End of included template "helpers/form/form_category.tpl" */?>
 								<?php }elseif($_smarty_tpl->tpl_vars['input']->value['type']=='categories_select'){?>
 									<?php echo $_smarty_tpl->tpl_vars['input']->value['category_tree'];?>
@@ -1010,9 +1010,9 @@ $_smarty_tpl->tpl_vars['language']->_loop = true;
 
 	</script>
 <?php }?>
-<?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2013-10-18 16:37:16
+<?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2013-11-08 17:39:46
          compiled from "/Applications/MAMP/htdocs/charcuterie/prestashop/admin2559/themes/default/template/helpers/form/form_group.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_5261479c3dfc11_51325884')) {function content_5261479c3dfc11_51325884($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_527d13d2132ae6_32147346')) {function content_527d13d2132ae6_32147346($_smarty_tpl) {?>
 
 <?php if (count($_smarty_tpl->tpl_vars['groups']->value)&&isset($_smarty_tpl->tpl_vars['groups']->value)){?>
 <table cellspacing="0" cellpadding="0" class="table" style="width:28em;">
@@ -1050,9 +1050,9 @@ $_smarty_tpl->tpl_vars['group']->_loop = true;
 <?php }else{ ?>
 <p><?php echo smartyTranslate(array('s'=>'No group created'),$_smarty_tpl);?>
 </p>
-<?php }?><?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2013-10-18 16:37:16
+<?php }?><?php }} ?><?php /* Smarty version Smarty-3.1.14, created on 2013-11-08 17:39:46
          compiled from "/Applications/MAMP/htdocs/charcuterie/prestashop/admin2559/themes/default/template/helpers/form/form_category.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_5261479c4beef3_55868032')) {function content_5261479c4beef3_55868032($_smarty_tpl) {?><?php if (!is_callable('smarty_function_implode')) include '/Applications/MAMP/htdocs/charcuterie/prestashop/tools/smarty/plugins/function.implode.php';
+<?php if ($_valid && !is_callable('content_527d13d21f5530_53463906')) {function content_527d13d21f5530_53463906($_smarty_tpl) {?><?php if (!is_callable('smarty_function_implode')) include '/Applications/MAMP/htdocs/charcuterie/prestashop/tools/smarty/plugins/function.implode.php';
 ?>
 <?php if (count($_smarty_tpl->tpl_vars['categories']->value)&&isset($_smarty_tpl->tpl_vars['categories']->value)){?>
 	<script type="text/javascript">

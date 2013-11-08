@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:132580590352684131e7d9c3-37619023%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:1912741435527d13eb34cbe6-59637953%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -9,13 +9,23 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '132580590352684131e7d9c3-37619023',
-  'version' => 'Smarty-3.1.14',
-  'unifunc' => 'content_527924656036b8_06761743',
+  'nocache_hash' => '1912741435527d13eb34cbe6-59637953',
+  'variables' => 
+  array (
+    'display_link_supplier' => 0,
+    'link' => 0,
+    'suppliers' => 0,
+    'text_list' => 0,
+    'text_list_nb' => 0,
+    'supplier' => 0,
+    'form_list' => 0,
+  ),
   'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.14',
+  'unifunc' => 'content_527d13eb498eb2_55673351',
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_527924656036b8_06761743')) {function content_527924656036b8_06761743($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_527d13eb498eb2_55673351')) {function content_527d13eb498eb2_55673351($_smarty_tpl) {?>
 <!-- Block suppliers module -->
 <div id="suppliers_block_left" class="block blocksupplier">
 	<p class="title_block"><a href="http://localhost:8888/charcuterie/prestashop/index.php?controller=supplier" title="Fournisseurs">Fournisseurs</a></p>
