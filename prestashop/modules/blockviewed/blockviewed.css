@@ -24,12 +24,12 @@
 }
 
 #viewed-products_block_left li .text_desc .s_title_block a, #viewed-products_block_left li .text_desc h5 a {
-	color:#333;
+	color:#ffffff;
 }
 #viewed-products_block_left li .text_desc p,
 #viewed-products_block_left li .text_desc p a {
 	padding-bottom:0;
 	line-height:14px;
-	color:#666
+	color: #ffdead;
 }
 
