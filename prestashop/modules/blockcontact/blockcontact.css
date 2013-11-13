@@ -1,6 +1,7 @@
 /* block CONTACT ******************************************************************************* */
 #contact_block .block_content {
 	padding:10px 0 15px 0;
+    color:#F5E3C3;
 	background: url(images/block_contact_bg.jpg) no-repeat left bottom transparent
 }
 
@@ -26,7 +27,7 @@
 	margin-left:60px;
 	padding:6px 8px;
 	font:bold 10px Arial,Verdana,sans-serif;
-	color:#fff;
+	color:#F5E3C3;;
 	text-shadow:0 -1px 0 #000;
 	text-transform:uppercase;
 	-moz-border-radius:3px;

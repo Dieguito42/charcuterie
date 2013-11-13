@@ -4,10 +4,15 @@
     <list default="true" id="6aea9277-8a83-477e-b0b2-85943c00ba9c" name="Default" comment="" />
     <ignored path="charcuterie.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/global.css" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383920049521" ignored="false" />
-    <file path="/a.dummy" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383672149486" ignored="false" />
-    <file path="/superfish-modified.css" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383918387707" ignored="false" />
+    <file path="/global.css" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1384354833429" ignored="false" />
+    <file path="/a.dummy" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1384356546811" ignored="false" />
+    <file path="/superfish-modified.css" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383932497546" ignored="false" />
     <file path="/blockcategories.tpl" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383918331944" ignored="false" />
+    <file path="/blockviewed.css" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383933511069" ignored="false" />
+    <file path="/blockspecials.css" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383933642338" ignored="false" />
+    <file path="/blockcontact.css" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383934049268" ignored="false" />
+    <file path="/blockcontact.tpl" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1383935160867" ignored="false" />
+    <file path="/blockuserinfo.css" changelist="6aea9277-8a83-477e-b0b2-85943c00ba9c" time="1384356589393" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,62 +32,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="404.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/404.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="404.tpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/test/404.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="onsale_en.gif" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/test/img/onsale_en.gif">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="global.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="global.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prestashop/themes/test/css/global.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="555" column="4" selection-start="17550" selection-end="17550" vertical-scroll-proportion="0.62057877">
+            <state line="54" column="17" selection-start="1966" selection-end="1966" vertical-scroll-proportion="-5.1153846">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.tpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/test/header.tpl">
+      <file leaf-file-name="shopping-cart.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop/themes/test/shopping-cart.tpl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="49.458332">
+            <state line="347" column="14" selection-start="17829" selection-end="17829" vertical-scroll-proportion="-70.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="category.tpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/test/category.tpl">
+      <file leaf-file-name="blockuserinfo.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prestashop/modules/blockuserinfo/blockuserinfo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="56.25">
+            <state line="21" column="20" selection-start="359" selection-end="359" vertical-scroll-proportion="0.37428573">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.tpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/themes/test/index.tpl">
+      <file leaf-file-name="bdd.sql" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bdd.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="6.4166665">
+            <state line="5" column="42" selection-start="135" selection-end="135" vertical-scroll-proportion="-3.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blocksocial.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop/themes/test/modules/blocksocial/blocksocial.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="8" selection-start="1209" selection-end="1209" vertical-scroll-proportion="-6.7916665">
+              <folding>
+                <marker date="1382108675000" expanded="true" signature="993:1479" placeholder="..." />
+                <marker date="1382108675000" expanded="true" signature="1063:1472" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blockcontact.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop/modules/blockcontact/blockcontact.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="10" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blockcontact.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop/modules/blockcontact/blockcontact.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="56" selection-start="956" selection-end="956" vertical-scroll-proportion="-6.0833335">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blockcontact.tpl" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prestashop/themes/test/modules/blockcontact/blockcontact.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="43" selection-start="1049" selection-end="1049" vertical-scroll-proportion="-13.125">
               <folding />
             </state>
           </provider>
@@ -100,16 +119,7 @@
       <file leaf-file-name="superfish-modified.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/prestashop/modules/blocktopmenu/css/superfish-modified.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="110" column="5" selection-start="2136" selection-end="2137" vertical-scroll-proportion="-14.346154">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="homeslider.tpl" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prestashop/modules/homeslider/homeslider.tpl">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="35" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.0">
+            <state line="74" column="21" selection-start="1346" selection-end="1346" vertical-scroll-proportion="-7.5">
               <folding />
             </state>
           </provider>
@@ -127,7 +137,14 @@
       <list>
         <option value="$PROJECT_DIR$/prestashop/themes/test/modules/blockcategories/blockcategories.tpl" />
         <option value="$PROJECT_DIR$/prestashop/modules/blocktopmenu/css/superfish-modified.css" />
+        <option value="$PROJECT_DIR$/prestashop/modules/blockviewed/blockviewed.css" />
+        <option value="$PROJECT_DIR$/prestashop/modules/blockspecials/blockspecials.css" />
+        <option value="$PROJECT_DIR$/prestashop/modules/blockcontact/blockcontact.css" />
+        <option value="$PROJECT_DIR$/prestashop/modules/blockcontact/blockcontact.tpl" />
+        <option value="$PROJECT_DIR$/prestashop/themes/test/modules/blockcontact/blockcontact.tpl" />
+        <option value="$PROJECT_DIR$/bdd.sql" />
         <option value="$PROJECT_DIR$/prestashop/themes/test/css/global.css" />
+        <option value="$PROJECT_DIR$/prestashop/modules/blockuserinfo/blockuserinfo.css" />
       </list>
     </option>
   </component>
@@ -289,7 +306,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="blockcategories" />
+              <option name="myItemId" value="blocksocial" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -305,6 +322,10 @@
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
@@ -420,65 +441,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/test/404.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/test/img/onsale_en.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/test/css/global.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2118" column="0" selection-start="0" selection-end="58841" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/order.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="3" selection-start="1114" selection-end="1114" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/sitemap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/test/404.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prestashop/themes/test/img/onsale_en.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prestashop/modules/homeslider/homeslider.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="35" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.0">
@@ -489,14 +451,42 @@
     <entry file="file://$PROJECT_DIR$/prestashop/themes/test/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="49.458332">
-          <folding />
+          <folding>
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prestashop/themes/test/category.tpl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="56.25">
-          <folding />
+          <folding>
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="false" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1382108673000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -516,14 +506,80 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/prestashop/modules/blocktopmenu/css/superfish-modified.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="5" selection-start="2136" selection-end="2137" vertical-scroll-proportion="-14.346154">
+        <state line="74" column="21" selection-start="1346" selection-end="1346" vertical-scroll-proportion="-7.5">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/modules/blockspecials/blockspecials.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="18" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.78571427">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/modules/blockviewed/blockviewed.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="18" selection-start="813" selection-end="813" vertical-scroll-proportion="1.1771429">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/modules/blockcontact/blockcontact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="10" selection-start="766" selection-end="766" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/modules/blockcontact/blockcontact.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="56" selection-start="956" selection-end="956" vertical-scroll-proportion="-6.0833335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/test/modules/blockcontact/blockcontact.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="43" selection-start="1049" selection-end="1049" vertical-scroll-proportion="-13.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bdd.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="42" selection-start="135" selection-end="135" vertical-scroll-proportion="-3.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/test/modules/blocksocial/blocksocial.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="8" selection-start="1209" selection-end="1209" vertical-scroll-proportion="-6.7916665">
+          <folding>
+            <marker date="1382108675000" expanded="true" signature="993:1479" placeholder="..." />
+            <marker date="1382108675000" expanded="true" signature="1063:1472" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/prestashop/themes/test/css/global.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="555" column="4" selection-start="17550" selection-end="17550" vertical-scroll-proportion="0.62057877">
+        <state line="54" column="17" selection-start="1966" selection-end="1966" vertical-scroll-proportion="-5.1153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/themes/test/shopping-cart.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="347" column="14" selection-start="17829" selection-end="17829" vertical-scroll-proportion="-70.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestashop/modules/blockuserinfo/blockuserinfo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="20" selection-start="359" selection-end="359" vertical-scroll-proportion="0.37428573">
           <folding />
         </state>
       </provider>
