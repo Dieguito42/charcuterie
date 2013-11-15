@@ -25,7 +25,7 @@
 #footer .myaccount li a {
    display: block;
 	padding:0;
-   color: #fff;
+   color: black;
    background: none;
 }
 #footer .myaccount li.lnk_wishlist img {display:none;}
